@@ -1,2 +1,1 @@
-Some new feature details
-More details about the feature
+This is a new feature!
